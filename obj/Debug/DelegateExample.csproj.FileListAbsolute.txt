@@ -1,0 +1,7 @@
+C:\Users\nirum\source\repos\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\Users\nirum\source\repos\DelegateExample\DelegateExample\bin\Debug\DelegateExample.exe
+C:\Users\nirum\source\repos\DelegateExample\DelegateExample\bin\Debug\DelegateExample.pdb
+C:\Users\nirum\source\repos\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csprojAssemblyReference.cache
+C:\Users\nirum\source\repos\DelegateExample\DelegateExample\obj\Debug\DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\nirum\source\repos\DelegateExample\DelegateExample\obj\Debug\DelegateExample.exe
+C:\Users\nirum\source\repos\DelegateExample\DelegateExample\obj\Debug\DelegateExample.pdb
